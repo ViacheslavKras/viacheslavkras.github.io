@@ -1,2 +1,2 @@
 # react-todo
-With hooks.
+Simple Todo app with hooks.
